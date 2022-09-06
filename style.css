@@ -1,0 +1,177 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.header_1 {
+  margin: 40px 0;
+}
+
+.H1_1 {
+  text-align: center;
+  color: #04aa6d;
+  font-size: 32px;
+}
+
+.h5_1 {
+  text-align: center;
+  font-size: 18px;
+}
+
+.section_1 {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #282a35;
+  color: white;
+  margin: 16px 0;
+}
+
+.div_1 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.H1_2 {
+  font-size: 100px;
+}
+
+.H5_2 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.href_1 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.href_2 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: white;
+  color: black;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+}
+
+.div_2 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.alt_1 {
+  width: 450px;
+}
+
+.section_2 {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: #d9eee1;
+  color: black;
+  margin: 16px 0;
+}
+
+.div_3 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.alt_2 {
+  width: 450px;
+}
+
+.div_4 {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+.H1_3 {
+  font-size: 100px;
+}
+
+.H5_3 {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.href_3 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.href_4 {
+  border: none;
+  padding: 8px 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  background-color: black;
+  color: white;
+  font-size: 18px;
+  margin: auto;
+  display: block;
+  width: 200px;
+  border-radius: 25px;
+  font-weight: 700;
+}
+
+.footer_1 {
+  text-align: center;
+  background-color: #282a35;
+  color: white;
+  padding: 40px 0;
+}
